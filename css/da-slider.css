@@ -51,7 +51,8 @@
 	opacity: 1;
 }
 .da-slide h2{
-	color: #fff;
+	/*color: #fff;*/
+	color: rgba(0,0,0,0.5);
 	font-size: 66px;
 	width: 50%;
 	top: 60px;

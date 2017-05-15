@@ -340,19 +340,20 @@ background: none;
     right: 0px;
 }
 
-    .banner-content h2 {
-        color: #fff;
-        font-size: 3.5em;
-        margin: 2% 0 30px;
-        line-height: 1.2em;
-    }
+.banner-content h2 {
+    /*color: #fff;*/
+    color: rgba(0,0,0,0.5);
+    font-size: 3.5em;
+    margin: 2% 0 30px;
+    line-height: 1.2em;
+}
 
-    .banner-content p {
-        font-size: 1.6em;
-        font-weight: normal;
-        font-style: normal;
-        color: #fff;
-    }
+.banner-content p {
+    font-size: 1.6em;
+    font-weight: normal;
+    font-style: normal;
+    color: #fff;
+}
 
 .da-slider {
     margin: 0 auto !important;
